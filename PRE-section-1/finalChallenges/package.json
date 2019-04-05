@@ -1,0 +1,15 @@
+{
+  "name": "PRE-section-1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha --bail test/*.test.js"
+  },
+  "author": "Mauro Gestoso <mauro@nortcoders.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {}
+}
