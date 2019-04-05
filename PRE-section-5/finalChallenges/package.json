@@ -1,0 +1,14 @@
+{
+  "name": "PRE-section-5",
+  "version": "1.0.0",
+  "description": "Coding challenges for the 5th section of the Northcoders Precourse",
+  "scripts": {
+    "test": "mocha ./__test__ --bail"
+  },
+  "author": "Harriet Ryder <harriet@nortcoders.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.3"
+  }
+}
